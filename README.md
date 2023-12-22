@@ -150,20 +150,11 @@ export class AppComponent {
 
 
 
+USER VIEW :
 
-
-
-
-
-
-
-User View :
-![Screenshot 2023-12-22 124115](https://github.com/nancy-chaalan/Stars-Rating/assets/150782100/28d7f628-67fa-4e0e-a7d5-9727af121a38)
-
-
-
-
-
+![Screenshot 2023-12-22 124125](https://github.com/nancy-chaalan/Stars-Rating/assets/150782100/59b66d17-7ea7-4628-82fa-6d65bb7483cf)
+![Screenshot 2023-12-22 124115](https://github.com/nancy-chaalan/Stars-Rating/assets/150782100/ff32d995-5e19-45a9-928b-58dabace8340)
+![Screenshot 2023-12-22 124107](https://github.com/nancy-chaalan/Stars-Rating/assets/150782100/1ba9fd44-3a4c-4580-b215-44f02d023cf9)
 
 
 
