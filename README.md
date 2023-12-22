@@ -157,6 +157,10 @@ export class AppComponent {
 
 
 
+User View :
+![Screenshot 2023-12-22 124115](https://github.com/nancy-chaalan/Stars-Rating/assets/150782100/28d7f628-67fa-4e0e-a7d5-9727af121a38)
+
+
 
 
 
