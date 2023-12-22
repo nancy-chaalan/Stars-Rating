@@ -161,9 +161,11 @@ USER VIEW :
 
 
 
+CODE :
 
-
-
+![Screenshot 2023-12-22 125238](https://github.com/nancy-chaalan/Stars-Rating/assets/150782100/4212f1ce-93b7-4002-8a1f-287c1c607110)
+![Screenshot 2023-12-22 124148](https://github.com/nancy-chaalan/Stars-Rating/assets/150782100/5faa1497-cd0b-470c-8990-37949ecd96a5)
+![Screenshot 2023-12-22 125315](https://github.com/nancy-chaalan/Stars-Rating/assets/150782100/0442072e-3b02-4f4a-b976-5d145c6fc6dd)
 
 
 
